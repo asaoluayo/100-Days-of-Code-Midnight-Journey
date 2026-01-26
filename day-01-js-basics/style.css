@@ -1,0 +1,32 @@
+body {
+    /* 1. Resetting defaults */
+    margin: 0;
+    padding: 0;
+
+    /* 2. Making the body fill the ENTIRE screen */
+    height: 100vh;
+    /* vh = viewport height. 100vh means 100% of the screen height */
+
+    /* 3. The Green Gradient Background */
+    /* This replicates that smooth green transition */
+    background: linear-gradient(to bottom right, #7bed9f, #2ed573);
+
+    /* 4. Centering the text perfectly (The Flexbox Method) */
+    display: flex;
+    justify-content: center;
+    /* Centers horizontally (left/right) */
+    align-items: center;
+    /* Centers vertically (up/down) */
+
+    /* 5. Font Styles */
+    font-family: sans-serif;
+    /* Removes the "Times New Roman" look */
+}
+
+h1 {
+    color: white;
+    /* Makes the text white */
+    font-size: 3rem;
+    /* Makes the text nice and big */
+    font-weight: bold;
+}
