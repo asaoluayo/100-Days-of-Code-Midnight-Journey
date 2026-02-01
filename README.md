@@ -102,3 +102,26 @@ Mathematics @UnilagNigeria | Midnight Ambassador
 
 Last updated: January 26, 2026
 
+
+---
+
+## Day 02 – February 1, 2026
+
+### Focus
+- `let`, `const`, and `var`
+- Basic JavaScript operators
+- Operator precedence
+
+### Practice
+- BMI Calculator (Mark vs John)
+- Calculated and compared BMI values using conditionals
+- Used template literals for clean output
+
+### What I learned
+- Operator precedence matters more than it looks
+- Assignment (`=`) evaluates from right to left
+- Using `===` helps avoid unexpected behavior
+
+One step closer to building on **Midnight** 
+
+
